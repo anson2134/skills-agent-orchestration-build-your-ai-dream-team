@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "name": "Atlas Redesign",
+      "owner": "Maya Chen",
+      "status": "On track",
+      "recentActivity": "Design review completed and engineering handoff scheduled.",
+      "priority": "High"
+    },
+    {
+      "name": "Northstar Mobile",
+      "owner": "Jordan Lee",
+      "status": "At risk",
+      "recentActivity": "Push notification integration is blocked by an API dependency.",
+      "priority": "Critical"
+    },
+    {
+      "name": "Insight Hub",
+      "owner": "Sam Rivera",
+      "status": "In progress",
+      "recentActivity": "Analytics dashboard entered internal beta with three pilot teams.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Greenlight Launch",
+      "owner": "Priya Nair",
+      "status": "Planning",
+      "recentActivity": "Launch milestones were aligned with marketing and support.",
+      "priority": "High"
+    }
+  ]
+}
